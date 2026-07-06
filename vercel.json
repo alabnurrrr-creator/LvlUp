@@ -1,7 +1,7 @@
 {
   "buildCommand": "cd web && npm run build",
   "outputDirectory": "web/build",
-  "framework": "react",
+  "framework": "create-react-app",
   "env": {
     "REACT_APP_FIREBASE_API_KEY": "@firebase_api_key",
     "REACT_APP_FIREBASE_AUTH_DOMAIN": "@firebase_auth_domain",
