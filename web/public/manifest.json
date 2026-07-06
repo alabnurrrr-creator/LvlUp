@@ -1,0 +1,31 @@
+{
+  "name": "LvlUp - Gamified Habit Tracker",
+  "short_name": "LvlUp",
+  "description": "Track habits with RPG mechanics, level up, gain stats, and compete on leaderboards",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1a2b",
+  "theme_color": "#5ec9ff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
